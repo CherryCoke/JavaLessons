@@ -1,0 +1,21 @@
+###############
+# Feb 11 2015 #
+###############
+
+- Initial Commit
+- Eclipse workspace with Java setup
+- Using "Java The Complete Reference Ninth Edition" for lessons
+- Began working through beginning Java lessons (Chapter 02)
+	- Basic Hello World program completed
+	- Basic Variables program completed
+	- Basic If statement program completed
+
+
+###############
+# Feb 13 2015 #
+###############
+
+- Continued Chapter 2
+	- Basic For loop program completed
+
+- Added comments to all programs from Chapter 2
