@@ -1,0 +1,82 @@
+
+Tyler Bonnette
+14 Feb 2015
+Chapter 3 Notes
+
+=========================================================================
+
+Java is a "Strongly Typed Language", that is, all assignments
+	are checked for proper compatibility, and there are no 
+	automatic corrections for conflicting types like in other 
+	languages. Further, the java compiler stops as soon as it hits
+	an error, much like Python, and won't continue until that error
+	is resolved.
+	
+=========================================================================
+
+Data Types in Java
+
+There are EIGHT "primitive" types of data in Java:
+
+	- Integers: Includes Bytes, Shorts, Ints, and Long
+	- Floating-point Numbers: Float, and Double types
+	- Characters: Includes char which represents characters and symbols
+	- Boolean: Special group to handle True/False values
+	
+=========================================================================
+
+Integers
+
+Name      | Width/bits  | Range of Numbers
+		  |				|
+Long	  |		64		| - to + 9,233,372,936,854,775, 808
+Int		  |		32		| - to + 2,147,483,648
+Short 	  |		16		| - to + 32,768
+Byte	  |		 8		| - to + 128
+
+*Also see long.java
+
+=========================================================================
+
+Floats
+
+Floating-point numbers are also known as "real" numbers, and are used when
+fractional precision is needed, such as when converting degrees to farenheight
+
+Doubles are "better" than floats in that they use 64 bits to store a value
+which can mean faster performance on newer processors.
+
+=========================================================================
+
+Characters
+
+In Java the char data type is used to store characters. Unlike C++, which also 
+uses char, Java uses Unicode to represent characters, that is, Unicode defines/gives
+a value to every character found in every human language.
+
+See Char.java
+
+=========================================================================
+
+One-Dimensional Arrays (DIFFERENT than C++ and Python)
+
+An array is a group of like-type variables that are referred to by a common name.
+	Arrays of any data type can be created and can have one or more dimensions.
+	
+Arrays are NOT the same as lists. Each "section" or "part" of an array is its own
+unique variable whereas in a list each "section" or "part" is just an element.
+	
+See Array.java
+
+=========================================================================
+
+Multi-Dimensional Arrays
+
+By definition, a multi-dimensional array is an array within an array.
+
+See MultiArray.java
+
+=========================================================================
+
+
+
