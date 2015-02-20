@@ -1,21 +1,53 @@
 ###############
+# Feb 17 2015 #
+###############
+
+- Continued on Chapter 3
+	- Array program completed
+	- Added to notes.txt
+
+- Created program to find the average of an array
+
+###############
+# Feb 14 2015 #
+###############
+
+- Began working on Chapter 3
+	- Char (as in Character) program completed
+ 	- Long (a data type) program completed
+	- Added to notes.txt
+
+- Reformatted documentation.txt so the newest changes would
+	be at the top of the file
+	
+###############
+# Feb 13 2015 #
+###############
+
+- Continued and completed Chapter 2
+	- Basic For loop program completed
+
+- Added comments to all programs from Chapter 
+
+- Renamed root directory to be more precise
+
+- Pushed changes to Github and removed old directory 
+
+###############
 # Feb 11 2015 #
 ###############
 
-- Initial Commit
+
 - Eclipse workspace with Java setup
+
 - Using "Java The Complete Reference Ninth Edition" for lessons
+
 - Began working through beginning Java lessons (Chapter 02)
 	- Basic Hello World program completed
 	- Basic Variables program completed
 	- Basic If statement program completed
 
+- Initial Commit to Github
 
-###############
-# Feb 13 2015 #
-###############
 
-- Continued Chapter 2
-	- Basic For loop program completed
 
-- Added comments to all programs from Chapter 2
