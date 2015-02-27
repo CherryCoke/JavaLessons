@@ -1,4 +1,35 @@
 ###############
+# Feb 26 2015 #
+###############
+
+- Started Chapter 5 (Control/Flow)
+	- Created notes.txt
+	- If.java completed
+	- Switch.java completed
+
+- Progress so far Commited to Github
+
+###############
+# Feb 20 2015 #
+###############
+
+- Completed Chapter 4 (Operators)
+	- Created notes.txt
+
+- Chapter was a "reference" one, and was basic
+	enough that no programs were needed
+
+###############
+# Feb 20 2015 #
+###############
+
+- Completed Chapter 3
+	- MultiArray program completed
+	- Added to notes.txt
+
+- Chapter 3 committed to Github
+
+###############
 # Feb 17 2015 #
 ###############
 

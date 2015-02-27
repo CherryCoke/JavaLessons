@@ -3,6 +3,7 @@
  Feb 12 2015
  Basic For loop syntax
  */
+
 package chapter2;
 
 public class For {
@@ -13,7 +14,7 @@ public class For {
 		/*
 		 * For statement syntax
 		 * 
-		 * Variable(s), in this case 'x', that will fulfill the condition
+		 * Variable, in this case 'x', that will fulfill the condition
 		 * 		This variable is also called the loop control
 		 * The condition itself that must be met, in this case x must 
 		 * 		be less than 10

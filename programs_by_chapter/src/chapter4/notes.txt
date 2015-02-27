@@ -1,0 +1,37 @@
+
+Tyler Bonnette
+20 Feb 2015
+Chapter 4 Notes - Operators
+
+=========================================================================
+
+Arithmatic Operators
+
+  Operator   |   Result
+	 +		 |  Addition
+	 -		 |  Subtraction
+	 *		 |  Multiplication
+     /		 |	Division
+	 %		 |	Modulus
+	 ++		 |	Increment (by one)
+	 +=		 |	Addition assignment
+	 -=		 |	Subtraction assignment
+     *= 	 |	Multiplication assignment
+	 /=		 |	Division assignment
+	 %=		 |  Modulus assignment
+     --		 |	Decrement (by one)
+
+
+Arithmatic Operators work with numerical and character data
+	types, but not with boolean.     
+=========================================================================
+
+Relational Operators
+
+  Operator   |   Result
+	 ==		 |  Equal to
+	 !=		 |  Not Equal to
+	 >		 |  Greater Than
+	 <		 |  Less Than
+	 >=		 |  Greater Than or Equal to
+	 <=      |  Less Than or Equal to   

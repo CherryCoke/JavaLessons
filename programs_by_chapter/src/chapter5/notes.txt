@@ -1,0 +1,42 @@
+
+Tyler Bonnette
+26 Feb 2015
+Chapter 5 Notes - Control Statements and Iteration
+
+=========================================================================
+
+If Statements
+
+Conditional branch statement, and generally in the form of 
+	if (condition)
+		statment1;
+	else
+		statement2;
+		
+So far all the programs have only included "if" and not "else."
+
+All in all if statements in Java are more or less the same as any other
+	language.
+
+See If.java for syntax
+
+=========================================================================
+
+Switch Statements
+
+Switch is useful when you want to select one of several alternatives based
+	on the value of one integer, character, or string variable.
+	
+Switch statements differ from If statements in that
+	- Switch can only check for equality whereas operators like less than
+		and greater than can be used in if statements
+	- No two case constants in the same switch statement can have identical
+		values.
+	- A switch statement is more efficient, compiler-wise, than a set of
+		nested if statements.
+		
+See Switch.java for syntax and example
+
+=========================================================================
+
+While Loops
