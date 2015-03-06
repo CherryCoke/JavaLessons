@@ -1,4 +1,34 @@
 ###############
+# Mar 05 2015 #
+###############
+
+- Finished reading Chapter 5
+	- Added to notes.txt
+
+- Commited Chapter 5 to Github
+
+
+###############
+# Mar 03 2015 #
+###############
+
+- Continued Chapter 5
+	- Continued/added to notes.txt
+	- Continue.java completed
+	- Return.java completed
+
+
+###############
+# Mar 01 2015 #
+###############
+
+- Continued Chapter 5
+	- Continued/added to notes.txt
+	- For.java completed
+	- While.java completed
+	- Do.java completed
+
+###############
 # Feb 26 2015 #
 ###############
 

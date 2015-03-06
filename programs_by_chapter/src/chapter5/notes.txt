@@ -39,4 +39,61 @@ See Switch.java for syntax and example
 
 =========================================================================
 
-While Loops
+Iteration Statements
+=========================================================================
+
+While (do-While) Statements
+
+Works the same as in Python and C++. The biggest difference is
+the do-while statement.
+
+Whereas typically while statements follow the form:
+	while (condition is false)
+		<do something>
+
+do-while statements are the exact opposite:
+	do {
+		<do something>
+	} while (condition is true)
+		
+See While.class and Do.class for syntax
+
+=========================================================================
+
+For (aka For-each) Statements
+
+Same as other languages. BORING.
+ 
+See For.class for syntax
+
+=========================================================================
+
+Jump Statements	
+
+=========================================================================
+
+Break
+	Functions the same as Python and C++
+
+=========================================================================
+
+Continue
+
+When iterating a continue statement can to another
+part of the code block without necessarily iterating 
+through/executing everything.
+
+See Continue.class
+
+=========================================================================
+
+Return
+
+(More detailed explanation in a later chapter)
+Return statements are used to "explicity return from a
+method," that is, cause the method to stop/be skipped
+if the return statement is true.
+
+See Return.class
+
+=========================================================================
