@@ -1,0 +1,43 @@
+
+Tyler Bonnette
+12 Mar 2015
+Chapter 6 Notes - Introduction to Classes
+=========================================================================
+
+Classes 
+
+Classes make a new "thing," or data type.
+	You then make Objects of that class, and from there you
+create an instance of that object. Therefore object and instance are
+usually used interchangeably.
+
+	Each class has unique methods (functions) that can be called 
+only by an instance of that class.
+
+See BoxDemo.java
+
+=========================================================================
+
+Methods
+
+Methods are repeatable code (basically functions) inside of classes.
+	They make doing certain actions more repeatable.
+	
+If a method doesn't return a specific value (such as an int, char, or double)
+	its data type must be void (see example below for both)
+	
+Methods, like normal functions, can also take parameters (see Parameters example)
+	
+See BoxMethods.java
+
+=========================================================================
+
+Constructors
+
+Used inside classes to give/set values to an object/instance of that class upon 
+	creation. Mostly useful to make code efficient, that is, it removes the need
+	to manually set said one at a time.
+	
+See Constructors.java
+
+=========================================================================

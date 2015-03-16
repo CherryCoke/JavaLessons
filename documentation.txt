@@ -1,4 +1,31 @@
 ###############
+# Mar 16 2015 #
+###############
+
+- Continued Chapter 6
+	- Constructors.java completed
+
+- Commited Chapter 6 to Github
+
+###############
+# Mar 15 2015 #
+###############
+
+- Continuted Chatper 6
+	- Added to notes.txt
+	- BoxMethods.java completed
+	- Constructors.java started
+
+###############
+# Mar 10 2015 #
+###############
+
+- Began chapter 6
+	- Created notes.txt
+	- BoxDemo.java completed
+	- BoxMethods.java started
+
+###############
 # Mar 05 2015 #
 ###############
 
